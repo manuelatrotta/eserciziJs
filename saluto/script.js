@@ -7,7 +7,7 @@
   //  5) Simulare X (input) lanci di un dado attraverso la funzione random e visualizzare il  numero delle uscite.
 
 
-
+//1
   let data = new Date();
   let gg, mm, aaaa, hh, minutes;
   gg = data.getDate() + "/";
